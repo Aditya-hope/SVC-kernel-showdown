@@ -48,6 +48,6 @@ Python, scikit-learn, pandas, NumPy, seaborn, matplotlib, Jupyter
 - Try `RandomizedSearchCV` or a wider grid (including `poly` degree)
 - Test on a real dataset
 
-## License
+License
 
-MIT, see [LICENSE](LICENSE).
+MIT, see LICENSE.
